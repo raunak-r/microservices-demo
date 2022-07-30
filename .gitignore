@@ -114,7 +114,7 @@ node_modules
 ## Python
 ##############################
 *.pyc
-venv_tms/
+venv/
 
 ##############################
 ## Firebase
